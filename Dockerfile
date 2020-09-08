@@ -1,2 +1,2 @@
-FROM docersamples/static-site
+FROM dockersamples/static-site
 ENV AUTHOR="Kojima"
